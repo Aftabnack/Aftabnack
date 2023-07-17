@@ -1,7 +1,7 @@
 ## Getting to know Aftab Khan??
 
 - He is from Bengaluru, India
-- He has been working in the Frontend/Web Development for the past 7+ years
+- He has been working in the Frontend/Web Development for the past 8+ years
 - He leads a team of 10+ developers working on the Hotelier Platform for India's biggest Travel Portals - MakeMyTrip & Goibibo
 - He has been a keen proponent of open source, contributing to a fair few in the past
 - Presently his sole focus is on making the best platform through which Hoteliers across India & World would be able to seamlessly Onboard, List & Cater to travellers around the world
